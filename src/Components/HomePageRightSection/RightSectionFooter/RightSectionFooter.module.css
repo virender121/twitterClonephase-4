@@ -1,0 +1,11 @@
+.main > a{
+   color : rgb(72, 70, 70);
+   font-size: 1rem;
+   text-decoration: none;
+}
+.main > a:hover{
+   text-decoration: underline;
+}
+.main > p{
+   font-size: 0.8rem;
+}

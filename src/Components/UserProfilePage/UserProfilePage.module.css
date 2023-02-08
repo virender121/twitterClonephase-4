@@ -1,0 +1,15 @@
+.main{
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr;
+}
+.child1{
+  grid-column: 1/2;
+  
+    position: fixed;
+}
+.child2{
+    grid-column: 2/3;
+}
+.child3{
+    grid-column: 3/4;
+}

@@ -1,0 +1,21 @@
+.main{
+   display: grid;
+   grid-column: 2/3;
+    width: 36rem;
+    height: 100vh;
+    overflow-y: scroll;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+}
+.header{
+    height: 7.3rem;
+    position: fixed;
+}
+.sectionmain{
+    margin-top: 7.4rem;
+}
+.main::-webkit-scrollbar{
+    display:none;
+}

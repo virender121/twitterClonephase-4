@@ -1,0 +1,48 @@
+/* html{
+  font-size: 20px;
+}
+.h1-rem{
+  font-size: 10rem;
+  color: red;
+}
+.h1-em{
+  font-size: 10em;
+  color: red;
+}
+.App{
+  font-size: 10px;
+}
+.parent{
+  font-size: 30px;
+}
+.h1-em2{
+  font-size: 2em;
+  color: blue;
+  margin-left: 50px;
+}
+.h1-em2:hover{
+ color: red;
+}
+
+.box{
+  height: 100px;
+  width: 100px;
+  border: 1px red solid;
+  padding: 1rem 2rem 3rem 3rem;
+  margin-left: 100px;
+ background-color: yellow;
+}
+.Input{
+  height: 56px;
+  border: 0;
+  border-radius: 5px;
+}
+.input:focus ~ ,
+.Input:focus ~ label{
+    
+    outline: rgb(0, 174, 255) solid;
+    top: -12px;
+}
+.Input:enabled{
+    
+} */
